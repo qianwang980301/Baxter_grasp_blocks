@@ -1,0 +1,14 @@
+// pcl_grabing.cpp 
+// Zhiang Chen, Nov 2015
+// for class Pcl_grabing in pcl_grabing.h
+
+#include <pcl_chen/pcl_grabing.h>
+
+Pcl_grabing(ros::NodeHandle* nodehandle, double roughHeight) : CwruPclUtils(nodehandle), TableHeight(roughHeight)
+{
+}
+
+void Pcl_grabing::findTableTop()
+{
+    
+}

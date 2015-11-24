@@ -1,0 +1,18 @@
+// pcl_grabing.h header file
+// Zhiang Chen, Nov 2015
+// for pcl in final project 
+
+#ifndef PCL_GRABING_H_
+#define PCL_GRABING_H_
+
+#include<cwru_pcl_utils/cwru_pcl_utils.h>
+
+class Pcl_grabing : public CwruPclUtils
+{
+public:
+
+ private:
+}
+
+#endif // PCL_GRABING_H_
+
